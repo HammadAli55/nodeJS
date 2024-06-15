@@ -1,0 +1,7 @@
+Node JS core modules
+
+1. HTTP (launch server, send request)
+2. HTTPS (launch ssl server)
+3. FS
+4. PATH
+5. OS
